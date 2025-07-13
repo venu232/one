@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "venu reddy!" %></h2>
+<h2><%= "om namaha shivaya" %></h2>
 </body>
 </html>
